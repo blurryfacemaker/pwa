@@ -2,11 +2,11 @@
     "name": "Frepute Parfum Refill Isi Ulang Bandung",
     "short_name": "Parfum Refill Isi Ulang",
     "icons": [{
-        "src": "/android-chrome-192x192.png",
+        "src": "https://1.bp.blogspot.com/-aSFZepEzXSI/YKEea1yu-II/AAAAAAAABfs/boUN8zIXlAYlt9Dw5yFi_OKHIfWGAdJRwCLcBGAsYHQ/s192/android-chrome-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
     }, {
-        "src": "/android-chrome-512x512.png",
+        "src": "https://1.bp.blogspot.com/-1u186x8UI_8/YKEd1zQV4BI/AAAAAAAABfk/4JaNj11gJYIpQytZ06uaDkXnSMBNHmAcACLcBGAsYHQ/s512/android-chrome-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
     }],
